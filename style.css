@@ -500,3 +500,13 @@ footer {
     color: #fff;
   }
 }
+
+@media (max-width: 500px) {
+  .cf-last-section-main-footer-logo-container {
+    width: 20%;
+  }
+  .cf-last-section-main-footer-logo-container div {
+    width: fit-content;
+    font-weight: 500;
+  }
+}
