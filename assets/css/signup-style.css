@@ -5,6 +5,11 @@ body {
   overflow-x: hidden;
 }
 
+.active {
+  color: #0E6BA8 !important;
+}
+
+
 *,
 *::before,
 *::after{
@@ -44,18 +49,23 @@ section {
 }
 
 .header-section {
-  padding-top: 15px;
+  padding-top: 10px;
   margin: 0 auto;
-  /* border: 1px soelid black; */
-  height: 8vh;
   max-width: 1128px;
+}
+
+.header-logo {
+  width: fit-content;
+}
+
+.header-logo img {
+  width: 20%;
 }
 
 .main-div {
   margin: 0 auto;
   max-width: 424px;
   width: 100%;
-  /* border: 1px solid; */
 }
 
 .intro-text h2 {
