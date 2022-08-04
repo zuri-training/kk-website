@@ -16,11 +16,22 @@ The website is built with
 - HTML
 - CSS
 - Netlify
+- [Figma](https://www.figma.com/file/lylckSVblnwTfXIxcl3bNE/Video-Display?node-id=179%3A438)
 
 ## Authors
 
 Contributors names and contact info
 
+### Designers
+- [Olaosebikan Enitan](https://github.com/orgs/zuri-training/people/hennyitan)
+- [Chidimma Madu](https://github.com/orgs/zuri-training/people/Mara-mma)
+- [Adeniji Adejoke Omolara](https://github.com/orgs/zuri-training/people/AdenijiOmolara)
+- [Obiahor Jesse](https://github.com/orgs/zuri-training/people/Jessesnr)
+- [Mary Eneh](https://github.com/orgs/zuri-training/people/Mary-Eneh)
+- [Concillia Nwaigwe](https://github.com/orgs/zuri-training/people/Lyia-n)
+- [Musa Morenikeji](https://github.com/orgs/zuri-training/people/M-Morenny-M-36)
+
+### Developers
 - [Ukanah Dean](https://github.com/orgs/zuri-training/people/Harrylever)
 - [Uthman Damilola](https://github.com/orgs/zuri-training/people/D-uth)
 - [Chizoba Udechukwu](https://github.com/orgs/zuri-training/people/videlleudeh)
