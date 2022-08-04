@@ -14,8 +14,9 @@ The site is presently hosted at [@Kampus Konnect](https://kampus-konnect.netlify
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[@harrylever](https://twitter.com/dompizzie)
+[@d-uth]()
+[@villeudelah]()
 
 ## Version History
 
