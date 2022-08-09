@@ -36,6 +36,10 @@ Contributors names and contact info
 - [Uthman Damilola](https://github.com/orgs/zuri-training/people/D-uth)
 - [Chizoba Udechukwu](https://github.com/orgs/zuri-training/people/videlleudeh)
 
+
+## DataBase Schema
+https://app.diagrams.net/#G1wtzgJG3QADuNnowGzx___eC6y_d1ihZA
+
 ## Version History
 
 * 0.1
